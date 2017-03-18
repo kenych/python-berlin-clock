@@ -1,4 +1,4 @@
-Python version of Berlin clock, ported from my java project.
+Python version of Berlin clock(http://agilekatas.co.uk/katas/BerlinClock-Kata), ported from my java project.
 
 Unit testing:
 `python -m unittest BrerlinClockTest
